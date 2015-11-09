@@ -47,8 +47,8 @@
       <file leaf-file-name="leaderboard.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leaderboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7758621">
-              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.8060345">
+              <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -200,7 +200,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447076092406</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;Add preventDefault to prevent form from trying to send data&quot;">
+      <created>1447076364354</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1447076364354</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -243,7 +249,8 @@
     <MESSAGE value="&quot;Add findone function to retrieve a single document to display the selected player&quot;" />
     <MESSAGE value="&quot;Add a 'Add Player' form&quot;" />
     <MESSAGE value="&quot;Add 'submit' event&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add 'submit' event&quot;" />
+    <MESSAGE value="&quot;Add preventDefault to prevent form from trying to send data&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add preventDefault to prevent form from trying to send data&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -292,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7758621">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.8060345">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
           <folding />
         </state>
       </provider>
