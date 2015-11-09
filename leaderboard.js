@@ -32,6 +32,11 @@ if(Meteor.isClient){
             PlayersList.update(selectedPlayer, {$inc: {score: -5} });
         }
     });
+    Template.addPlayerForm.events({
+        'submit form': function(){
+            console.log("Form submitted");
+        }
+    });
 }
 
 if(Meteor.isServer){
