@@ -49,8 +49,8 @@
       <file leaf-file-name="leaderboard.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leaderboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20059435">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.576523">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -209,7 +209,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447122597338</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;">
+      <created>1447170012380</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1447170012381</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -266,7 +272,8 @@
     <MESSAGE value="&quot;Add ability to remove players&quot;" />
     <MESSAGE value="&quot;Add account login&quot;" />
     <MESSAGE value="&quot;Add ability of logged in user to add players&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add ability of logged in user to add players&quot;" />
+    <MESSAGE value="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -315,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20059435">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.576523">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
           <folding />
         </state>
       </provider>

@@ -49,6 +49,7 @@ if(Meteor.isClient){
                 score: 0,
                 createdBy: currentUserId
             });
+            Meteor.call('sendLogMessage');
         }
     });
 }
@@ -57,5 +58,10 @@ if(Meteor.isServer){
     Meteor.publish('thePlayers', function(){
         var currentUserId = this.userId;
         return PlayersList.find({createdBy: currentUserId})
+    });
+    Meteor.methods({
+        'sendLogMessage': function(){
+            console.log("Hello world");
+        }
     });
 }
