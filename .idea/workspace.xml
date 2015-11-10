@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25ccce83-0e46-4a49-abc7-73ca9f5a502c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaderboard.js" afterPath="$PROJECT_DIR$/leaderboard.js" />
     </list>
     <ignored path="leaderboard.iws" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="leaderboard.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leaderboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.576523">
-              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.8216939">
+              <caret line="66" column="76" selection-start-line="66" selection-start-column="76" selection-end-line="66" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -215,7 +213,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447170012381</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&quot;Remove the default 'insecure' feature, disabling users ability to manipulate data&quot;">
+      <created>1447172521662</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1447172521662</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -273,7 +277,8 @@
     <MESSAGE value="&quot;Add account login&quot;" />
     <MESSAGE value="&quot;Add ability of logged in user to add players&quot;" />
     <MESSAGE value="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;" />
+    <MESSAGE value="&quot;Remove the default 'insecure' feature, disabling users ability to manipulate data&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Remove the default 'insecure' feature, disabling users ability to manipulate data&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -322,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.576523">
-          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.8216939">
+          <caret line="66" column="76" selection-start-line="66" selection-start-column="76" selection-end-line="66" selection-end-column="76" />
           <folding />
         </state>
       </provider>
