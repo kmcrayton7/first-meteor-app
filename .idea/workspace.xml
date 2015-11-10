@@ -47,8 +47,8 @@
       <file leaf-file-name="leaderboard.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leaderboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8216939">
-              <caret line="66" column="76" selection-start-line="66" selection-start-column="76" selection-end-line="66" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.84398216">
+              <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -219,7 +219,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447172521662</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;Allow users to remove players from browser&quot;">
+      <created>1447173851054</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1447173851054</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -278,7 +284,8 @@
     <MESSAGE value="&quot;Add ability of logged in user to add players&quot;" />
     <MESSAGE value="&quot;Remove default 'autopublish', Add publish and subscribe functionality for logged in users&quot;" />
     <MESSAGE value="&quot;Remove the default 'insecure' feature, disabling users ability to manipulate data&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Remove the default 'insecure' feature, disabling users ability to manipulate data&quot;" />
+    <MESSAGE value="&quot;Allow users to remove players from browser&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Allow users to remove players from browser&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -327,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8216939">
-          <caret line="66" column="76" selection-start-line="66" selection-start-column="76" selection-end-line="66" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.84398216">
+          <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
           <folding />
         </state>
       </provider>
